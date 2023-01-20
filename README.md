@@ -5,7 +5,7 @@
 
 Create a Linked Service with my source data. Input to Databricks using ADF for Bronze, Silver and Gold Transformation. Visualize my analysis on Power BI in order to arrive at quick decision.
 
-Skills: ADF / ADB / ADLS / POWER BI/ QLIK SENSE
+Skills: ADF / ADB / ADLS / POWER BI/ POWER APPS /QLIK SENSE
 
 
 

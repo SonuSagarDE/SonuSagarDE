@@ -4,7 +4,7 @@
 ##### Filling my experience in GIT Repository.
 ##### Creating Series of Problems with thier solutions for Data Engineering.
 
-#### Added SQL Problems, Python Problems
+#### Added SQL Problems, Python Problems, Pandas Lib
 
 
 Create a Linked Service with my source data. Input to Databricks using ADF for Bronze, Silver and Gold Transformation. Visualize my analysis on Power BI in order to arrive at quick decision.

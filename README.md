@@ -1,7 +1,6 @@
 
 ### Hi there 👋, My name is Sonu Sagar.
 #### Having fun with Data. 
-##### Filling my experience in GIT Repository.
 ##### Creating Series of Problems with thier solutions for Data Engineering.
 
 #### Added SQL Problems, Python Problems, Pandas Lib

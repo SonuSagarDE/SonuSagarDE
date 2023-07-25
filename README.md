@@ -1,7 +1,7 @@
 
 ### Hi there 👋, My name is Sonu Sagar.
 #### Having fun with Data. 
-##### Creating Series of Problems with thier solutions for Data Engineering.
+##### Creating Series of Problems with their solutions for Data Engineering.
 
 #### Adding problems & Solution which are good to practice on SQL,Python,Pyspark,Pandas Lib,DSA
 
